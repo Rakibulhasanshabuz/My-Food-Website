@@ -1,0 +1,44 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    marker: 0;
+}
+h1{
+    font-size: 50px;
+}
+.head-color{
+    color: purple;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+.link{
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(skyblue, blue);
+    color: white;
+    font-weight: 700;
+}
+.contact-link{
+    background-image: linear-gradient(orange, red);
+}
+.half-width{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half{
+    width: 50%;
+    padding: 2%;
+}
+.size-pic img{
+    width: 400px;
+    padding-left: 40px;
+}
+.back-image{
+    background-image: url(food-network-main/images/shapes/Frame\ 58.jpg);
+    background-size: cover;
+}
+.center{
+    text-align: center;
+}
