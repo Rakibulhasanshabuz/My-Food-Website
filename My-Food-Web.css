@@ -2,6 +2,13 @@ body{
     font-family: 'Poppins', sans-serif;
     marker: 0;
 }
+.welcome{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.welcome span{
+    color: indianred;
+}
 h1{
     font-size: 50px;
 }
@@ -10,7 +17,6 @@ h1{
 }
 p{
     font-size: 20px;
-    text-align: justify;
 }
 .link{
     text-decoration: none;
@@ -41,4 +47,76 @@ p{
 }
 .center{
     text-align: center;
+    margin-bottom: 100px;
+}
+.food-image{
+ width: 500px;
+ border-radius: 20px;
+}
+.img-center{
+    text-align: center;
+    margin-top: 5%;
+}
+.shadow{
+    width: 40%;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px gray
+}
+.food-ariea{
+    display: flex;
+    margin: 0 20px;
+    margin-bottom: 100px;
+}
+.likes{
+    width: 500px;
+    margin left: 50px;
+    margin right: 50px;
+}
+.likes-show{
+    display: flex;
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px gray;
+}
+.last-section{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.last-title{
+    color: orangered;
+}
+.last-title2{
+    color: orchid;
+}
+.link-show-center{
+    text-align: center;
+}
+.address{
+    margin-left: 20px;
+    margin-bottom: 100px;
+}
+.form-p-color{
+    color: green;
+}
+.form-show{
+    padding: 10px;
+}
+.form-show2{
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 5px;
+    background-image: linear-gradient(red, orchid);
+}
+.extra{
+    color: indianred;
 }
