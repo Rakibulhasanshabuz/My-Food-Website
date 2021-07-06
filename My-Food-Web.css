@@ -120,3 +120,8 @@ p{
 .extra{
     color: indianred;
 }
+.last-bag{
+    background-image: url(food-network-main/images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
